@@ -1,4 +1,5 @@
-# Royals Pics Gallery
+# Royal Pics Gallery
+
 ## By: Margaret Kimani
 
 ## Description
