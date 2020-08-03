@@ -6,7 +6,7 @@
 
 ## Link to the project:
 
-+ https://dashboard.heroku.com/apps/royalpics2
++ https://royalpics2.herokuapp.com/
 
 ## User stories
 + These are the behaviours/features that the application implements for use by a user:
