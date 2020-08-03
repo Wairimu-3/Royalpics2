@@ -3,7 +3,7 @@
 ## By: Margaret Kimani
 
 ## Description
-+ This is a Django application where a user can view various pictures and click on te pictures to see more details about it.
++ This is a Django application where a user can view various pictures and click on the pictures to see more details about it.A user can also copy the the link and share it to their friends and search pictures according to its category.
 
 ## Link to the project:
 
