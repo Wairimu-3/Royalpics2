@@ -1,1 +1,1 @@
-web: gunicorn royalpics2.wsgi --log-file -
+web: gunicorn mygallery.wsgi --log-file -
